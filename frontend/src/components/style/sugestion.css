@@ -1,0 +1,40 @@
+/* suggestion*/
+.suggestion{
+    margin-top: 47px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.suggestion div{
+    margin-left: 15PX;
+}
+
+.suggestion span{
+
+    color: black;
+}
+.suggestion button{
+    margin-top: 51px;
+    height: 35px;
+    width: 130px;
+    border-radius: 10px;
+    background: #ffff;
+    cursor: pointer;
+}
+
+
+/* paragraph area
+
+background: tan;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 20px;
+border: 15px solid;
+margin: 59px;
+height: 208px; */
+
+
+
+

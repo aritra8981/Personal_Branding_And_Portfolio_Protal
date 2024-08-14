@@ -1,0 +1,112 @@
+.navbar{
+    width:100%;
+    height: 75px;
+    overflow: hidden;
+}
+.icon{
+    width: 535px;
+    float: left;
+    height: 70px;
+}
+
+.icon img{
+    margin-top: 12px;
+    float: left;
+    margin-left: 19px;
+    border-radius: 50%;
+}
+
+.logo{
+    /* background: linear-gradient(to right,#d36408, 
+                    #a12929, #ff1818 ); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text; */
+    color:#ff7200;    
+    font-size: 35px;
+    font-family: Libre Bodoni;
+    float: left;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;   
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: honeydew;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+
+}
+
+ul li a:hover{
+    color: #ff7200;
+}
+
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 237px;
+}
+
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background:transparent;
+    border:1px solid #ff7200;
+    margin-top: 15px;
+    color: azure;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid#ff7200;
+    margin-top: 15px;
+    cursor: pointer;
+    color: #ffff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.btn:hover{
+    background: #fff;
+    color: #ff7200;
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
+}

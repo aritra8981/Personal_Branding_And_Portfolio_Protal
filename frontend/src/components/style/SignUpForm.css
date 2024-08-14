@@ -1,0 +1,106 @@
+.container{
+    display: flex;
+    margin-left: 624px;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 111px;
+    border: 2px solid;
+    width: 320px;
+    height: 474px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0.8) 50%);
+    position: relative;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.text{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    font-size: 22px;
+    background-color:transparent;
+    border-radius:10px ;
+    margin: 2px;
+    padding: 8px;
+}
+
+.inputSignUpData{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: -16px;
+    font-family: sans-serif;
+    
+}
+
+.inputSignUpData input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+div .loginlink{
+    color: #fff;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.loginlink a{
+    color: #ff7200;
+    text-decoration: none;
+}
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 268px;
+    font-size: 18px;
+    border-radius:10px ;
+    cursor: pointer;
+    color: #fff;
+
+
+}
+.btnn:hover{
+    background: #fff;
+    color: #ff7200;
+
+}
+.btnn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+
+}
+
+div a{
+    text-decoration: none;
+    color: #ff7200;
+}
+
+div span{
+    margin-left: 3px;
+    margin-right: 3px;
+    font-weight: bold;
+    color: #fff;
+}

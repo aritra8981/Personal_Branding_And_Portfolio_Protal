@@ -1,0 +1,59 @@
+/* src/App.css */
+.FormComponent {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.Editing-Form {
+  background-color: rgba(255, 255, 255, 0.5); 
+  border-radius: 34px;
+  padding: 20px;
+  border: 2px solid;
+  text-align: center;
+  width: 469px;
+  margin-bottom: 15px;
+}
+
+.Editing-Form label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 22px;
+}
+
+.Topic{
+  color: black;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.Editing-Form h3{
+  font-weight: 700;
+}
+
+.Editing-Form div{
+  margin-bottom: 17px;
+}
+.Editing-Form input{
+  height: 27px;
+  border-radius: 18px;
+}
+.Editing-Form input[type="text"],
+.Editing-Form textarea {
+  height: 34px;
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.Editing-Form input[type="file"] {
+  height: 27px;
+  border-radius: 18px;
+  margin-top: 5px;
+}
+
+.Sumbit_pDetails button{
+  height: 36px;
+  width: 93px;
+  border-radius: 16px;
+}

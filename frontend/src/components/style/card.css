@@ -1,0 +1,59 @@
+/* card css */
+.card-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.card1{ 
+    margin-top: 91px;
+    height: 291px;
+    width: 474px;
+    border-radius:8px;
+    margin-left: 192px;
+}
+.card2{ 
+    margin-top: 91px;
+    height: 291px;
+    width: 474px;
+    border-radius:8px;
+    margin-left: 62px;
+}
+.card3{ 
+    margin-top: 40px;
+    height: 291px;
+    width: 474px;
+    border-radius:8px;
+    margin-left: 192px;
+}
+.card4{ 
+    margin-top: 40px;
+    height: 291px;
+    width: 474px;
+    border-radius:8px;
+    margin-left: 62px;
+}
+.card1 img{
+    border-radius: 8px;
+    width: 100%;
+    height: 291px;
+
+}
+.card2 img{
+    border-radius: 8px;
+    width: 100%;
+    height: 291px;
+
+}
+.card3 img{
+    border-radius: 8px;
+    width: 100%;
+    height: 291px;
+
+}
+.card4 img{
+    border-radius: 8px;
+    width: 100%;
+    height: 291px;
+
+}

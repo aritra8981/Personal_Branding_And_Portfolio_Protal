@@ -1,0 +1,28 @@
+.TemplatePage-main{
+    background-color:black;
+    width: 100%;
+    background:white;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 372vh;
+    margin: 0;
+}
+
+.editing-button{
+    padding-top: 78px;
+    margin-left: 45%;
+}
+
+.Editing{
+     
+    background: #ff7200;
+    border-radius: 36px;
+    height: 45px;
+    width: 186px;
+    cursor: pointer;
+}
+
+.Editing :hover{
+    background: white;
+}

@@ -1,0 +1,10 @@
+.TemplatePage-main{
+    background-color:black;
+    width: 100%;
+    background:white;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 285vh;
+    margin: 0;
+}
